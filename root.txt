@@ -6,3 +6,5 @@ wid 1
 
 
 dev wid ³åÍ»
+
+dev2
