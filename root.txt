@@ -1,7 +1,0 @@
-1
-invoice 1
-wid 1
-dev wid ³åÍ»
-dev2
-invoice 2
-wid2
