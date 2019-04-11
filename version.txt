@@ -2,15 +2,12 @@ version1
 456
 789
 
+
 AAAAA
 
 
-<<<<<<< HEAD
 BBBBB
 
 
 
 CCCCC
-=======
-BBBBB
->>>>>>> bbbbbb
