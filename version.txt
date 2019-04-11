@@ -5,8 +5,12 @@ version1
 AAAAA
 
 
+<<<<<<< HEAD
 BBBBB
 
 
 
 CCCCC
+=======
+BBBBB
+>>>>>>> bbbbbb
